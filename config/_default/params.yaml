@@ -64,7 +64,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: quit-pub
+title: qubt-pub
 description: "Site build with Qubt & Hugo"
 images:
   - thumbnail.png
